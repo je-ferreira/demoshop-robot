@@ -1,4 +1,4 @@
-# Teste Prático Robot
+# Practical Exercise Robot Framework
 
 ### To run this project locally
 
